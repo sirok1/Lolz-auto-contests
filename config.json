@@ -1,0 +1,12 @@
+{
+  "lolz_url": "link to the main domain lolz, the setting was added due to the frequent blocking of the resource, for example:https://zelenka.guru",
+  "alwaysOn": "This setting shows the application that it is running as a process. true, or false",
+  "license_token": "JLsQlvKYgkvqzQZ7",
+  "login": "Forum login",
+  "password": "Your account password",
+  "profile_url": "Link to your profile, for example: https://zelenka.guru/members/3603915/",
+  "discord_webhook_url": "If you want to add webhook logging in discord, enter a link to it here, otherwise enter null",
+  "telegram_bot_token": "Integration with bots in Telegram, enter either your token obtained from @BotFather here, or enter null",
+  "ParseContestInterval": "Time in minutes in which to recheck draws, for the presence of new, enter a number here",
+  "twoAuth": "Whether you have two factor authentication enabled on your account, either true or false"
+}
