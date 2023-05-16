@@ -79,7 +79,7 @@ npm run flush_logs
 {
   "lolz_url": "link to the main domain lolz, the setting was added due to the frequent blocking of the resource, for example:https://zelenka.guru",
   "alwaysOn": "This setting shows the application that it is running as a process. true, or false",
-  "license_token": "JLsQlvKYgkvqzQZ7",
+  "license_token": "",
   "login": "Forum login",
   "password": "Your account password",
   "profile_url": "Link to your profile, for example: https://zelenka.guru/members/3603915/",
@@ -101,7 +101,7 @@ In this configuration:
 {  
 "lolz_url": "https://zelenka.guru",  
 "alwaysOn": false,  
-"license_token": "JLsQlvKYgkvqzQZ7",  
+"license_token": "",  
 "login": "mute0_O",  
 "password": "********",  
 "profile_url": "https://zelenka.guru/members/3603915/",  
