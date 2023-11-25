@@ -234,7 +234,7 @@ class Client extends EventEmitter{
      */
     async checkLicense(license_token) {
         //here was a license check, acting as a guarantor in the transfer of the code
-        return true
+        setTimeout(() => this.emit('licenseConfirmed'), 1000 * 5)
     }
 
     /**
